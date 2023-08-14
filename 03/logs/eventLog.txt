@@ -1,0 +1,5 @@
+09|04|2023	10:53:37 	 1ef7e03e-32a0-4433-8128-e357532d59b3 	Log event emitted!
+09|04|2023	10:53:46 	 bc77c859-ce10-44cc-8ffe-f071bc195409 	Log event emitted!
+09|04|2023	13:50:52 	 4c02a8e6-7b37-4694-bd02-d7130f91f254 	Log event emitted!
+09|04|2023	13:53:00 	 31f9389f-c74f-4fd8-bdcf-e21dd25bd359 	Log event emitted!
+09|04|2023	13:53:55 	 6b718401-da24-4787-b5e1-4c2e80f675bf 	Log event emitted!

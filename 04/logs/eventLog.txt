@@ -1,0 +1,8 @@
+09|04|2023	15:03:54 	 c3c49bc5-e7cd-482d-b13f-b9c6e07e15db 	Log event emitted!
+09|04|2023	15:04:17 	 565d241b-aedf-40ea-848b-e54d0464faa8 	Log event emitted!
+09|04|2023	15:09:50 	 2ee0a97e-8eb2-4b9c-bdc3-a0b56b27ea25 	Log event emitted!
+09|04|2023	15:14:57 	 91263a22-9073-4aea-8572-5e07c5fbba7d 	Log event emitted!
+09|04|2023	15:15:32 	 de5fb691-3adf-4813-a80b-7b9d0e1bb168 	Log event emitted!
+09|04|2023	15:15:36 	 f625194b-23cd-4cc6-9f80-dbd9c8a7c185 	Log event emitted!
+09|04|2023	15:15:57 	 13ee3840-351b-466d-a855-436b1f6bd761 	Log event emitted!
+09|04|2023	15:16:07 	 a75d6a02-a654-43cd-ac4c-3a657a1248e0 	Log event emitted!
