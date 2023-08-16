@@ -107,10 +107,12 @@
 // console.log(mul(2)(3)(4));
 
 
-console.log("1");
+// console.log("1");
 
-setTimeout(function () {
-  console.log("2");
-}, 0);
+// setTimeout(function () {
+//   console.log("2");
+// }, 0);
 
-console.log("3");
+// console.log("3");
+
+console.log(parseInt(-1/2))
