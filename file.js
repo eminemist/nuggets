@@ -1,21 +1,21 @@
-// solve = (A) =>{
-//        const q = [];
-//         q.push('1');
-//         q.push("2");
+solve = (A) =>{
+       const q = [];
+        q.push('1');
+        q.push("2");
 
-//         let i = 0;
-//         while (i < A) {
-//             console.log(q)
-//             let val = q[i];
-//             q.push(val + '1');
-//             q.push(val + '2');
-//             i++;
-//         }
-//         console.log(q[A-1])
-//         return q[A - 1] + (q[A - 1].split("").reverse().join(""));
-//     }
+        let i = 0;
+        while (i < A) {
+            console.log(q)
+            let val = q[i];
+            q.push(val + '1');
+            q.push(val + '2');
+            i++;
+        }
+        console.log(q[A-1])
+        return q[A - 1] + (q[A - 1].split("").reverse().join(""));
+    }
 
-// console.log(solve(4)
+console.log(solve(15),
 
 function diffArray(arr1) {
   console.log(arr1);
